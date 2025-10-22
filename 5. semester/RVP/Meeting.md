@@ -1,0 +1,4 @@
+- po mailu žitniku pošlješ na mail z elektronskim podpisem
+- v učilnico bo treba brez podpisa uploadat
+- kam je treba oddat program dela? a to napišejo samo za delo v lab ali tudi za tutorstvo? NE za tutorstvo, JA za laboratorijske dejavnosti
+- če pišeš po tednih, napiši eno poved na teden
